@@ -1,0 +1,36 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "factoryName": {
+      "value": "tokyoadf21"
+    },
+    "AzureDataLakeStorage1_accountKey": {
+      "value": ""
+    },
+    "AzureDataLakeStorage1_properties_typeProperties_url": {
+      "value": "https://tokyoolympic21.dfs.core.windows.net/"
+    },
+    "Httpmedals_properties_typeProperties_url": {
+      "value": "https://raw.githubusercontent.com"
+    },
+    "HttpGender_properties_typeProperties_url": {
+      "value": "https://raw.githubusercontent.com"
+    },
+    "HttpMedal_properties_typeProperties_url": {
+      "value": "https://raw.githubusercontent.com"
+    },
+    "Httpathletes_properties_typeProperties_url": {
+      "value": "https://raw.githubusercontent.com"
+    },
+    "HttpCoaches_properties_typeProperties_url": {
+      "value": "https://raw.githubusercontent.com"
+    },
+    "containerUri": {
+      "value": ""
+    },
+    "containerSasToken": {
+      "value": ""
+    }
+  }
+}
